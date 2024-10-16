@@ -15,5 +15,6 @@
   "short_description": "Get google jobs data quickly",
   "version": "1.0.0",
   "documentation_file": "./documentation.md",
-  "input_file": "./input.json"
+  "input_file": "./input.json",
+  "app_id": "9cdaca70-5bea-44dc-846a-97ac29c89e53"
 }
