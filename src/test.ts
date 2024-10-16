@@ -1,3 +1,5 @@
-import GetGoogleLinks from "./index";
+import GetGoogleJobs from "./index";
 
-GetGoogleLinks({ searches: `crawlora\nscaletech` });
+GetGoogleJobs({
+  searches: `Software engineer in ahmedabad\nMaths Teacher in Delhi`,
+});
